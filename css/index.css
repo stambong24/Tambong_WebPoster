@@ -1,6 +1,6 @@
 body{
     background-color: #bebebe;
-    width: 205%;
+    width: fit-content;
     margin-top: 0px;
     margin-left: 0px;
     height:fit-content;
@@ -312,13 +312,13 @@ body{
     animation-iteration-count: infinite;
   }
 
-  #daniel-header-main-1{
+    #daniel-header-main-1{
     font-family: "Pinyon Script", cursive;
     font-weight: 100;
     font-size: 260px;
     position: absolute;
     top: -200px;
-    left: 2200px;
+    left: 1300px;
 
     animation-name: pulse;
     animation-duration: 3s;
@@ -331,7 +331,7 @@ body{
     font-size: 170px;
     position: absolute;
     top: 20px;
-    left: 2190px;
+    left: 1390px;
 
     animation-name: pulse;
     animation-duration: 3s;
@@ -340,7 +340,7 @@ body{
     text-shadow: -1px -1px 0 #bebebe, 1px -1px 0 #bebebe, -1px 1px 0 #bebebe, 1px 1px 0 #bebebe;
   }
 
-  #credits{
+#credits{
     font-family: "DM Mono", monospace;
     font-weight: 300;
     font-style: normal;
@@ -348,11 +348,10 @@ body{
     font-size: 14px;
     line-height: 15px;
     position: absolute;
-    left: 2540px;
+    left: 2340px;
     top: 640px;
     text-align: right;
   }
-
   .name-menu{
     font-family: "DM Mono", monospace;
     font-weight: 300;
