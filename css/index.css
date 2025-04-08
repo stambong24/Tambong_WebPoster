@@ -654,7 +654,7 @@ body{
   font-size: 260px;
   position: absolute;
   top: -200px;
-  left: 2200px;
+  left: 1900px;
   color: #D60505;
   animation-name: pulse;
   animation-duration: 3s;
@@ -667,7 +667,7 @@ body{
   font-size: 170px;
   position: absolute;
   top: 20px;
-  left: 2190px;
+  left: 1990px;
   color: #D60505;
   animation-name: pulse;
   animation-duration: 3s;
@@ -675,6 +675,7 @@ body{
 
   text-shadow: -1px -1px 0 #bebebe, 1px -1px 0 #bebebe, -1px 1px 0 #bebebe, 1px 1px 0 #bebebe;
 }
+
 
 .name-menu-3{
   font-family: "DM Mono", monospace;
